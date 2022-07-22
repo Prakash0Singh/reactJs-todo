@@ -31,11 +31,9 @@
 .headline p{
     font-size: 30px;
 }
-.gmail a:hover {
-    border: none;
-    color: rgb(201, 44, 25);
+.twitte .github .instagram .linkedin{
+    margin: 2px;
 }
-
 .twitter a:hover {
     border: none;
     color: #1DA1F2;
